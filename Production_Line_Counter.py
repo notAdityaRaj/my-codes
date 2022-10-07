@@ -1,10 +1,14 @@
 """
-Connect the Button1 one end to GPIO23
-Connect the Button1 other end to GND
-Connect the Button2 one end to GPIO17
-Connect the Button2 other end to GND
-Connect the Buzzer Anode to GPIO14
-Connect the Buzzer Ground to GND
+Connect the 7 segment display pins to the following GPIO numbers
+a=14
+b=15
+c=18
+d=23
+e=24
+f=25
+g=8
+dp=4
+Connect the IR senor to GPIO2
 """
 
 import RPi.GPIO as GPIO
