@@ -30,11 +30,12 @@ def ultrasonic_sensing():
   
     distance = pulse_duration * 17150
     distance = round(distance, 2)
-    return distance
+   return distance
 
 
 print("Waiting for the sensor to read the lenght: ")
 L = ultrasonic_sensing()
+print("Now calculating the width")
 time.sleep(5)
 W = ultrasonic_sensing()
 time.sleep(5)
