@@ -7,7 +7,7 @@ How to install the OS to Raspberry PI
 https://www.raspberrypi.com/documentation/computers/getting-started.html
 please follow the above link for the initial setup.
 
-Hoe to setup the remote desktop access for Raspberry Pi Over Internet
+How to setup the remote desktop access for Raspberry Pi Over Internet
 https://www.pitunnel.com/doc/access-vnc-remote-desktop-raspberry-pi-over-internet
 
 How to check Camera
